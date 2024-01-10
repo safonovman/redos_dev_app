@@ -7,4 +7,3 @@
 - Подключение репозитория repo yanao int
 - Обноволение пакетов (Script_1_update)
 - Установка пакетов программ (Script_2_install_app)
-- 
