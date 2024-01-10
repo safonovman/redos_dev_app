@@ -1,0 +1,3 @@
+!#bin/bash/
+dnf install command 2
+dnf install command 1
