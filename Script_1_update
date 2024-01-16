@@ -1,6 +1,0 @@
-!#bin/bash
-git repo
-mkdir bin_post_install
-cd bin_post_install
-
-sudo dnf update 
